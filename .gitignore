@@ -27,3 +27,7 @@ yarn-error.log*
 *.iws
 *.iml
 *.ipr
+
+### Cypress test output ###
+/cypress/screenshots
+/cypress/videos
