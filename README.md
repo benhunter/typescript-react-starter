@@ -24,6 +24,14 @@ See run scripts in package.json.
 
 See .gitignore for ignoring Cypress test output.
 
+## Cypress Testing Library
+
+- [Cypress Testing Library](https://testing-library.com/docs/cypress-testing-library/intro/)
+
+```
+yarn add --dev @testing-library/cypress
+```
+
 ## Cypress Examples
 
 - [ ] Remove `/cypress/integrations/*`
