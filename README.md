@@ -5,8 +5,22 @@
 
 # Linter setup with ESLint
 
-- [ ] TODO [ESLint Compatibility Rules](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/src/configs/eslint-recommended.ts)
-- [ ] TODO AirBnB Lint rules for TypeScript
+Just use this starter: [Typescript React ESLint Cypress Starter with Create React App](https://github.com/benhunter/typescript-react-eslint-starter)
+
+[ESLint Getting Started](https://eslint.org/docs/user-guide/getting-started)
+
+```
+yarn add --dev eslint
+```
+
+Create config with wizard:
+
+```
+yarn create @eslint/config
+```
+
+- [x] TODO [ESLint Compatibility Rules](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/src/configs/eslint-recommended.ts)
+- [x] TODO AirBnB Lint rules for TypeScript
 
 # Jest
 
